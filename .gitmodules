@@ -1,0 +1,4 @@
+[submodule "SubmoduleRepository_Radchenko"]
+	path = SubmoduleRepository_Radchenko
+	url = git@github.com:DmitriyRadchenko/SubmoduleRepository_Radchenko.git
+	branch = master
